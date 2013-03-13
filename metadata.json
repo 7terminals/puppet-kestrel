@@ -1,0 +1,22 @@
+{
+  "name": "7terminals-kestrel",
+  "author": "Francis Pereira",
+  "description": "",
+  "license": "",
+  "project_page": "",
+  "source": "",
+  "summary": "Puppet module to setup and manage Kestrel",
+  "version": "",
+  "checksums": {
+    "Modulefile": "3d4136e6635fa173393e1b21388de09e",
+    "README.markdown": "792a2c0a4d45d81f58f0500ee5b021ad",
+    "README.md": "013971a29ad66f11f3b1898f5644d7cf",
+    "Rakefile": "f37e6131fe7de9a49b09d31596f5fbf1",
+    "manifests\\init.pp": "e77369176bd905aeda45c006cd1660c1",
+    "manifests\\setup.pp": "48a23b0d1f6dca268f05d8db47822152",
+    "spec\\spec.opts": "a600ded995d948e393fbe2320ba8e51c",
+    "spec\\spec_helper.rb": "3ea886dd135e120afa31e0aab12e85b0",
+    "tests\\init.pp": "e1abe310506bf11243b1bc5bcc548527"
+  },
+  "dependencies": []
+}

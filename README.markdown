@@ -1,0 +1,3 @@
+# puppet-kestrel #
+
+This is the puppet-kestrel module. It provides...
