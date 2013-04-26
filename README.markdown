@@ -47,7 +47,7 @@ Valid arguments are "present" or "absent". Default "present"
 
 This parameter specifies the source for the kestrel archive. 
 This file must be in the files directory in the caller module. 
-Only .zip source archives are supported.
+**Only .zip source archives are supported.**
 
 ####`deploymentdir`
 
